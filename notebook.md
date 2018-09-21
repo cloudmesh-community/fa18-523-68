@@ -10,3 +10,7 @@ Week 3: 9/07/2018 - 9/13/2018
 * attended lecture on 9/07/2018
 * reviewed Organization, Course Description and Example Artifacts sections
 * watched Hype Cycles and Data Deluge lecture videos.
+
+Week 4: 9/14/2018 - 9/20/2018
+=============================
+* attended lecture on 9/14/2018
