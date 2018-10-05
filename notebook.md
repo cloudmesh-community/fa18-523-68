@@ -20,7 +20,7 @@ Week 5: 9/21/2018 - 9/27/2018
 * attended lecture on 9/21/2018
 * data science chapter completed
 
-Week 5: 9/28/2018 - 10/04/2018
+Week 6: 9/28/2018 - 10/04/2018
 =============================
 * attended lecture on 9/21/2018
 * started to write tech review
