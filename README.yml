@@ -10,3 +10,9 @@ technologies:
       - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/jclouds.md
       - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/opennebula.md
       - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/mlpy.md
+paper:
+      - title: Distributed TensorFlow
+        url: https://github.com/cloudmesh-community/fa18-523-68/blob/master/paper/paper.md
+project:
+      - title: Image Classification using k-means on TensorFlow
+        url: https://github.com/cloudmesh-community/fa18-523-68/blob/master/project-report/report.md
