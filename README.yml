@@ -4,3 +4,9 @@ owner:
   lastname: "AKKAS"
   hid: "fa18-523-68"
   community: "E534"
+  
+technologies:
+      - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/e-science-central.md
+      - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/jclouds.md
+      - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/opennebula.md
+      - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/mlpy.md
