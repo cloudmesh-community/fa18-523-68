@@ -1,7 +1,7 @@
 ---
 owner:
   firstname: "Selahattin"
-  lastname: "AKKAS"
+  lastname: "Akkas"
   hid: "fa18-523-68"
   community: "e534"
   
@@ -12,7 +12,9 @@ technologies:
       - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/mlpy.md
 paper:
       - title: Distributed TensorFlow
+        keyword: Tensorflow
         url: https://github.com/cloudmesh-community/fa18-523-68/blob/master/paper/paper.md
 project:
       - title: Image Classification using k-means on TensorFlow
+        keyword: k-means Tensorflow
         url: https://github.com/cloudmesh-community/fa18-523-68/blob/master/project-report/report.md
