@@ -4,12 +4,13 @@ owner:
   lastname: "Akkas"
   hid: "fa18-523-68"
   community: "e534"
+  semester: fa18
   
 technologies:
       - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/e-science-central.md
       - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/jclouds.md
       - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/opennebula.md
-      - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/mlpy.md
+      - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/ceph.md
 paper:
       - title: Distributed TensorFlow
         keyword: Tensorflow
