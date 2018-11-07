@@ -6,6 +6,8 @@
 | hid: fa18-523-68
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-68/blob/master/paper/paper.md)
 
+* :o: this is a draft, review has not been started due to this
+
 ---
 
 Keywords: Distributed TensorFlow, TensorFlow
