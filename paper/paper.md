@@ -1,4 +1,4 @@
-# Distributed TensorFlow :hand: fa18-523-68
+# Distributed TensorFlow :wave: :exclamation: fa18-523-68
 
 | Selahattin Akkas
 | sakkas@iu.edu
@@ -7,6 +7,8 @@
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-68/blob/master/paper/paper.md)
 
 * :o: this is a draft, review has not been started due to this
+
+* :o: second review. No forther review possibly before we grade.
 
 ---
 
