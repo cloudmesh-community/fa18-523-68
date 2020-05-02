@@ -14,9 +14,9 @@ technologies:
       - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/ceph.md
 paper:
       - title: Distributed TensorFlow
-        keyword: Tensorflow
+        keyword: Distributed TensorFlow, Distribution Strategies, Distributed Deep Learning, Distributed Keras
         url: https://github.com/cloudmesh-community/fa18-523-68/blob/master/paper/paper.md
 project:
-      - title: Image Classification using k-means on TensorFlow
-        keyword: k-means Tensorflow
+      - title: TensorFlow on Twister2
+        keyword: Twister2, Twister2 Deep Learning, Twister2 Keras, Twister2 MNIST
         url: https://github.com/cloudmesh-community/fa18-523-68/blob/master/project-report/report.md

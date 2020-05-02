@@ -107,6 +107,7 @@ seen in the table below:
 >| **Keras API**            | Supported            | Experimental support | Experimental support        | Experimental support     | Supported planned post 2.0 | Supported         |
 >| **Custom training loop** | Experimental support | Experimental support | Support planned post 2.0    | Support planned post 2.0 | No support yet             | Supported         |
 >| **Estimator API**        | Limited Support      | Not supported        | Limited Support             | Limited Support          | Limited Support            | Limited Support   |
+>
 >[@fa18-523-68-www-distributed-tf]
 
 
